@@ -1,7 +1,7 @@
 """
 --- debai 
 Viet python ham hi()
-Tra ve cau chao 'Hi!'
+Tra ve cau chao 'Hi'
 
 --- input 
 (ko co)
@@ -12,4 +12,4 @@ Hi!
 
 def hi():
   # print('Hi !')
-  return 'Hi!'
+  return 'Hi'
